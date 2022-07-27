@@ -58,8 +58,8 @@ namespace ProductCatalogAPI.Data
             return new List<CatalogBrand>
             {
                 new CatalogBrand{Brand = "Tiffany & Co." },
-                new CatalogBrand{Brand = "Wedding Ring"},
-                new CatalogBrand{Brand = "Fashing Ring"}
+                new CatalogBrand{Brand = "DeBeers"},
+                new CatalogBrand{Brand = "Graff"}
             };
         }
 
